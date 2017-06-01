@@ -1,0 +1,43 @@
+body{
+    text-align:center;
+    color:black;
+    }
+
+header{
+    height:200px;
+    background-image: url("background.jpg");
+}
+
+li{
+    display:inline;
+    padding: 10px;
+    
+}
+a{
+    font-size:20px;
+    font-family:cursive;
+    color:lightcoral;
+    text-decoration: none;
+}
+    
+    a:hover{
+        color:black;
+    }
+            
+       
+img{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    height: 180px;
+    border-color: black;
+    border-radius: 20px;
+   
+}
+
+ul{
+    margin-top: 20px;
+    padding-left:320px;
+    padding-right:320px;
+    list-style:disc;
+    
+}
